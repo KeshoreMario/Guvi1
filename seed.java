@@ -12,8 +12,7 @@ public class Seed {
 		if(b==num){
 			System.out.println(i+" is a seed of "+num);
 			count+=1;
-			break;
-		}
+			}
 		}
 	if(count==0){
 		System.out.println("No seed found.");
